@@ -1,0 +1,57 @@
+.Google  h1{
+    color:white;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+body{
+    background-image:url(./portfolio/Abstract2.jpg) ;  
+}
+.nana{
+    width:500px;
+    height: 30px;
+    border-radius: 30px;
+    margin-left: 70px;
+    padding: 5px;
+    font-size: 20px;
+}
+.dada  img{
+   width:20px;
+   margin-left:600px ;
+   margin-top: 20;
+   background: 100px white ;
+
+}
+.mama  img{
+  width:20px;
+  margin-left: 40px;
+  margin-top: 20px;
+  background: 100px white ;
+
+}
+.nani  img{
+    width:20px;
+    margin-left: 40px;
+    margin-top: 20px;
+    background: 100px white ;
+
+}
+.nani img:hover{
+    background:100px slategray;
+}
+
+.mama img:hover{
+    background:100px slategray;
+}
+
+.dada img:hover{
+    background:100px slategray;
+    
+}
+.baba .amma {
+    
+ 
+    margin-left: 1200px;
+
+}
